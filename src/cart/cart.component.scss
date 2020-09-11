@@ -1,0 +1,8 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+
+.cart {
+  &__item {
+    padding: $card-group-margin;
+  }
+}
